@@ -1,0 +1,14 @@
+.git
+.gitignore
+.dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+*.venv
+Dockerfile
+README.md
+# Add any other files/folders to exclude
