@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (if you use one like venv, env, .venv)
+venv/
+env/
+.venv/
+*.venv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (optional, examples for VSCode)
+.vscode/
+
+# Secrets or sensitive data (if any - should not be hardcoded anyway!)
+# *.env
+# config.ini
+
+# Known faces directory (optional - depends on your strategy)
+# If your known faces are sensitive, large, or managed separately,
+# you might want to exclude them from the public repo.
+# known_faces/
